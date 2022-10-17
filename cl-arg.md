@@ -18,4 +18,10 @@ def intro():
     print('The script and variables used are: ' + arguments)
 intro()
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
 ```
